@@ -1,0 +1,57 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set up general styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.header {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    color: #fff;
+}
+
+main {
+    margin: 20px;
+}
+.inform {
+    margin-top: 3%;
+}
+
+/* section {
+    margin-bottom: 11.1%;
+} */
+
+h2 {
+    margin-top: 3%;
+    font-size: 24px;
+    
+    /* margin-bottom: 10px; */
+}
+
+.contact-info {
+    list-style: none;
+    padding: 0;
+    margin-top: 5%;
+}
+
+.contact-info li {
+    margin-bottom: 10px;
+}
+
+.contact-info i {
+    margin-right: 10px;
+    color: #333;
+}
+

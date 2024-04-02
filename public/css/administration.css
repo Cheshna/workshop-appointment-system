@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins" , sans-serif;
+    
+}
+
+.navbar a:hover{
+    text-decoration: none;
+}
+.dropdown a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.dropdown:hover {
+    color: #F5F5F5;
+}
+
+
+body{
+    background-color: #F5F5F5;
+    text-decoration: none;
+}
+.text-1{
+    font-size:25px;
+    font-family: Georgia, serif;
+    text-align:center;
+    margin-top: 2%;
+    color: #8A191D;
+}
+.bl{
+    /* display:block;
+    overflow: scroll; */
+    max-height: 300px;
+}
+.pending {
+    margin-bottom:  10%;
+    
+}
